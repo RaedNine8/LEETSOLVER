@@ -1,5 +1,5 @@
 # LEETSOLVER
-A Chrome extension that solves Leet Code Problems for you. </br>
+A Chrome extension that solves Leet Code Problems for you Leveraging Meta's `Code LLama Instruct`. </br>
 
 # Built with:
 <img src="https://github.com/RaedNefzi98/LEETSOLVER/assets/74836098/0fb1c5b4-b0ca-4633-9d95-6985ca6a74f8" alt="Flask-Dark" width="70"> <img src="https://github.com/RaedNefzi98/LEETSOLVER/assets/74836098/25bad7e8-9751-4782-8127-92f5cd702c3e" alt="React-Dark" width="70"> <img src="https://github.com/RaedNefzi98/LEETSOLVER/assets/74836098/be6e66b1-9f51-4ef9-8dc4-4e727b85aa03" alt="Python-Dark" width="70">  <img src="https://github.com/RaedNefzi98/LEETSOLVER/assets/74836098/155d57ac-c48f-446f-9fff-ffb7e8e81fdb" alt="Webpack-Dark" width="70">
