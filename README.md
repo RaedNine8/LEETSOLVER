@@ -25,7 +25,7 @@ See [Chrome's developer tutorial](https://developer.chrome.com/docs/extensions/m
 
 ### 3) Run the Backend locally or in a google Colab:
 
-The bot runs off of an API that's running flask/ngrok. The API is in front of Code LLama Instruct.*Remember you have to copy the ngrok url to the `popup/components/SolverForm.js` file*
+The bot runs off of an API that's running flask/ngrok. The API is in front of `Code LLama Instruct`.*Remember you have to copy the ngrok url to the `popup/components/SolverForm.js` file*
 
 Update this url with the new ngrok url from flask
 ```
