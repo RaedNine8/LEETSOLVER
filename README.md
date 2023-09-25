@@ -20,7 +20,7 @@ $ npm install react-switch --save
 $ npm run build
 ```
 
-### 3) Load the extension
+### 2) Load the extension
 See [Chrome's developer tutorial](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/) on how to start a chrome extension project. You can select this repository as the unpacked extension to run (should work out of the box)
 
 ### 3) Run the Backend locally or in a google Colab:
@@ -43,3 +43,6 @@ Login with you huggingFace account and add your Token:
 ```
 !huggingface-cli login
 ```
+
+## Contact
+If you have any questions or need assistance, please reach out to me at [raednefzi1998@gmail.com](raednefzi1998@gmail.com). I'm here to help!
